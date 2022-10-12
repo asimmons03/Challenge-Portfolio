@@ -27,8 +27,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Website Functionality
 
+![Untitled](https://user-images.githubusercontent.com/111012288/195249407-21fe8a7a-defe-4324-853f-b0559e98b793.png)
 
 
 ## Link to Website
-
+https://asimmons03.github.io/Challenge-Portfolio/
 
